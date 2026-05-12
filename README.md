@@ -59,16 +59,20 @@ AI-Resume-Analyzer/
 # 📸 Screenshots
 
 ## 🏠 Dashboard
-Add screenshot here
+<img width="1913" height="857" alt="Screenshot 2026-05-12 140338" src="https://github.com/user-attachments/assets/c6eac7ab-e3ee-4e9f-83b4-bdb3b73e102f" />
+
 
 ## 📊 ATS Score
-Add screenshot here
+<img width="1917" height="822" alt="Screenshot 2026-05-12 140446" src="https://github.com/user-attachments/assets/abd3e082-0a29-4653-a904-8d9a2288e11c" />
+
 
 ## 💼 Job Description Matching
-Add screenshot here
+<img width="1896" height="831" alt="image" src="https://github.com/user-attachments/assets/f84b1b35-e207-4206-b892-af19685b0e94" />
+
 
 ## 🤖 AI Resume Feedback
-Add screenshot here
+<img width="1896" height="831" alt="image" src="https://github.com/user-attachments/assets/8d18a1d3-bde8-422f-ba1b-540e0cedfd55" />
+
 
 ---
 
