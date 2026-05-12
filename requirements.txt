@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+spacy
+scikit-learn
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+google-generativeai
