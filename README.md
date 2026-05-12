@@ -81,7 +81,7 @@ AI-Resume-Analyzer/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Resume-Analyzer.git
+git clone https://github.com/devanshusingh/AI-Resume-Analyzer.git
 ```
 
 ---
@@ -170,11 +170,11 @@ streamlit run app.py
 
 # 👨‍💻 Author
 
-## Harshit Bhargava
+## Devanshu Singh
 
-📧 Email: harshitbhargava439@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/harshitbh7/  
-💻 GitHub: https://github.com/harshit-aiot
+📧 Email: devanshusingh530@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/devanshu3107  
+💻 GitHub: https://github.com/devanshu1802
 
 ---
 

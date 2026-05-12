@@ -7,3 +7,4 @@ faiss-cpu
 pandas
 numpy
 google-generativeai
+plotly
